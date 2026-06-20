@@ -34,19 +34,13 @@ Las reservas podrán ser canceladas con una anticipación mínima definida por e
 
 ---
 
-## RN-006 - Bloqueo de fechas
-
-La administración podrá bloquear fechas o franjas horarias por mantenimiento, eventos internos o cualquier otra situación especial.
-
----
-
-## RN-007 - Horarios configurables
+## RN-006 - Horarios configurables
 
 Cada zona común tendrá horarios configurables de disponibilidad.
 
 ---
 
-## RN-008 - Estados de una reserva
+## RN-007 - Estados de una reserva
 
 Una reserva podrá encontrarse en alguno de los siguientes estados:
 
@@ -58,24 +52,24 @@ Una reserva podrá encontrarse en alguno de los siguientes estados:
 
 ---
 
-## RN-009 - Restricción por capacidad
+## RN-008 - Restricción por capacidad
 
 Cada zona común tendrá una capacidad máxima definida por la administración.
 
 ---
 
-## RN-010 - Inhabilitación de zonas
+## RN-09 - Inhabilitación de zonas
 
 Una zona podrá ser deshabilitada temporalmente sin eliminar su configuración.
 
 ---
 
-## RN-011 - Historial de reservas
+## RN-010 - Historial de reservas
 
 Todas las solicitudes deberán conservarse para efectos de consulta y auditoría.
 
 ---
 
-## RN-012 - Unicidad de la reserva
+## RN-011 - Unicidad de la reserva
 
 Cada reserva deberá poseer un identificador único dentro del sistema.

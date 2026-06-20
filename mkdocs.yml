@@ -50,10 +50,10 @@ nav:
       - Introducción: analisis/index.md
       - Actores: analisis/actores/actores.md
       - Casos de uso: analisis/casos-de-uso/casos-de-uso.md
-      - Historias de usuario: analisis/historias-usuario/historias-usuario.md
-      - Diagramas: analisis/diagramas/diagramas.md
-      - Wireframes: analisis/wireframes/wireframes.md
-      - Modelo de dominio: analisis/modelo-dominio/modelo-dominio.md    
+      #- Historias de usuario: analisis/historias-usuario/historias-usuario.md
+      #- Diagramas: analisis/diagramas/diagramas.md
+      #- Wireframes: analisis/wireframes/wireframes.md
+      #- Modelo de dominio: analisis/modelo-dominio/modelo-dominio.md    
 extra:
   generator: false
 copyright: |

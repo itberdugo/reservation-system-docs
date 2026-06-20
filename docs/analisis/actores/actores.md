@@ -38,15 +38,3 @@ Usuario encargado del control de acceso.
 
 * Consultar reservas aprobadas.
 * Verificar acceso a las zonas comunes.
-
----
-
-## Consejo Administrativo
-
-Actor con acceso a información y reportes.
-
-### Responsabilidades
-
-* Consultar estadísticas.
-* Revisar reportes.
-* Supervisar el uso de las zonas comunes.

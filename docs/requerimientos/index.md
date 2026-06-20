@@ -40,7 +40,7 @@ La correcta definición de los requerimientos permite:
 
 | Elemento                      | Estado            |
 | ----------------------------- | ----------------- |
-| Requerimientos funcionales    | ⏳ En construcción |
-| Requerimientos no funcionales | ⏳ En construcción |
-| Reglas de negocio             | ⏳ En construcción |
-| Glosario                      | ⏳ En construcción |
+| Requerimientos funcionales    | ✅ En revisión |
+| Requerimientos no funcionales | ✅ En revisión |
+| Reglas de negocio             | ✅ En revisión |
+| Glosario                      | ✅ En revisión |

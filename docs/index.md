@@ -6,7 +6,7 @@
 
 Bienvenido al portal oficial de documentación del **Sistema de Reservas de Zonas Comunes del Conjunto Residencial Peñas Blancas**.
 
-Este espacio centraliza toda la información relacionada con el producto, incluyendo visión del proyecto, requerimientos, reglas de negocio, casos de uso, historias de usuario, arquitectura, roadmap y documentación técnica.
+Este espacio centraliza toda la información relacionada con el producto, incluyendo visión del proyecto, requerimientos, reglas de negocio, casos de uso, historias de usuario y documentación técnica.
 
 ---
 
@@ -22,7 +22,6 @@ Construir una plataforma digital que permita a los residentes consultar la dispo
 | ------------------- | ---------------------------- |
 | Estado del proyecto | 🟢 En análisis               |
 | Versión actual      | 0.1                          |
-| Próxima fase        | Definición de requerimientos |
 | Fecha de inicio     | Junio 2026                   |
 | Tipo de producto    | Plataforma web de reservas   |
 
@@ -40,8 +39,6 @@ Construir una plataforma digital que permita a los residentes consultar la dispo
 * Reglas de negocio.
 * Casos de uso.
 * Historias de usuario.
-* Arquitectura del sistema.
-* Roadmap del proyecto.
 * Propuesta comercial.
 
 ---
@@ -57,20 +54,17 @@ Durante esta fase se establecerán:
 3. Las reglas operativas del conjunto.
 4. Los usuarios involucrados.
 5. Los casos de uso principales.
-6. La arquitectura de la solución.
-7. El alcance del MVP.
+6. El alcance del MVP.
 
 ---
 
 ## Próximos entregables
 
 * ✅ Documento de visión.
-* ⏳ Requerimientos funcionales.
-* ⏳ Reglas de negocio.
-* ⏳ Casos de uso.
-* ⏳ Historias de usuario.
-* ⏳ Arquitectura del sistema.
-* ⏳ Roadmap de desarrollo.
+* ✅ Requerimientos funcionales.
+* ✅ Reglas de negocio.
+* ✅ Casos de uso.
+* ✅ Historias de usuario.
 * ⏳ MVP versión 1.0.
 
 ---

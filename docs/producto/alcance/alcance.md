@@ -10,7 +10,6 @@ La primera versión del sistema contempla las siguientes funcionalidades:
 - Gestión de zonas comunes.
 - Configuración de horarios disponibles.
 - Consulta del historial de reservas.
-- Notificación del estado de la solicitud.
 - Panel administrativo para control de reservas.
 
 ## Exclusiones
@@ -20,5 +19,6 @@ En esta primera versión no se contempla:
 - Integración con control de acceso físico.
 - Aplicación móvil nativa.
 - Integración automática con WhatsApp.
+- Notificación del estado de la solicitud.
 
 Estas funcionalidades podrán ser consideradas en futuras versiones.

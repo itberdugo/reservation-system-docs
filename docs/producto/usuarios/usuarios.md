@@ -11,7 +11,3 @@ Personal encargado de revisar, aprobar, rechazar y gestionar las reservas solici
 ## Vigilancia
 
 Visualiza reservas activas para controlar el acceso.
-
-## Consejo o comité administrativo
-
-Usuarios que pueden requerir consulta de información, reportes o seguimiento sobre el uso de las zonas comunes.

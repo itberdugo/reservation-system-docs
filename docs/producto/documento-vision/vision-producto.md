@@ -26,7 +26,7 @@ El Sistema de Reservas de Zonas Comunes busca digitalizar el proceso de reserva 
 
 | Elemento         | Valor          |
 | ---------------- | -------------- |
-| Estado           | 🟢 En análisis |
+| Estado           | 🟢 En revisión |
 | Versión          | 0.1            |
 | Próxima fase     | Requerimientos |
 | Tipo de producto | Plataforma web |
