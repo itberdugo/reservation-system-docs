@@ -1,0 +1,64 @@
+site_name: Sistema de Reservas Peñas Blancas
+site_description: Portal de documentación del sistema de reservas de zonas comunes
+site_author: ITAPIAB
+
+theme:
+  name: material
+  language: es
+  favicon: img/favicon.ico
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Inicio: index.md
+  - Producto:
+      - Documento de visión: producto/documento-vision/vision-producto.md
+      - Problema actual: producto/problema-actual/problema-actual.md
+      - Objetivo del producto: producto/objetivo/objetivo.md
+      - Usuarios involucrados: producto/usuarios/usuarios.md
+      - Alcance inicial: producto/alcance/alcance.md
+      - Beneficios esperados: producto/beneficios/beneficios.md
+      - Funcionalidades futuras: producto/funcionalidades-futuras/funcionalidades-futuras.md
+      - Criterios de éxito: producto/criterios-exito/criterios-exito.md
+  - Requerimientos: 
+      - Descripción General: requerimientos/index.md
+      - Requerimientos Funcionales: requerimientos/requerimientos-funcionales/requerimientos-funcionales.md
+      - Requerimientos No Funcionales: requerimientos/requerimientos-no-funcionales/requerimientos-no-funcionales.md
+      - Reglas de Negocio: requerimientos/reglas-negocio/reglas-negocio.md
+      - Glosario: requerimientos/glosario/glosario.md
+
+  - Análisis:
+      - Introducción: analisis/index.md
+      - Actores: analisis/actores/actores.md
+      - Casos de uso: analisis/casos-de-uso/casos-de-uso.md
+      - Historias de usuario: analisis/historias-usuario/historias-usuario.md
+      - Diagramas: analisis/diagramas/diagramas.md
+      - Wireframes: analisis/wireframes/wireframes.md
+      - Modelo de dominio: analisis/modelo-dominio/modelo-dominio.md    
+extra:
+  generator: false
+copyright: |
+  Portal de documentación del sistema de reservas de zonas comunes<br><br>
+  © 2026 Sistema de Reservas Peñas Blancas.<br>
+  Todos los derechos reservados.<br><br>  
+  
+  Elaborado por ITAPIAB
