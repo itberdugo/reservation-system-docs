@@ -53,7 +53,9 @@ nav:
       #- Historias de usuario: analisis/historias-usuario/historias-usuario.md
       #- Diagramas: analisis/diagramas/diagramas.md
       #- Wireframes: analisis/wireframes/wireframes.md
-      #- Modelo de dominio: analisis/modelo-dominio/modelo-dominio.md    
+      #- Modelo de dominio: analisis/modelo-dominio/modelo-dominio.md   
+  - Wireframes:
+      -  Prototipo interactivo: wireframes/wireframes.md    
 extra:
   generator: false
 copyright: |
